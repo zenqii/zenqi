@@ -1,22 +1,10 @@
-<div align="center">
-    <img src="https://github.com/znqi/znqi/raw/main/images/wave%20(1).svg" >
-<!--     <img src="https://raw.githubusercontent.com/znqi/znqi/main/images/logo.png" />
-    <br>
-    <a href="https://github.com/znqi"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="150" alt="builtwithlove" /></a> -->
-</div>
- 
 <!-- <div align="center">
-    <a href="https://github.com/znqi">Home</a> |
-    <a href="#projects">Projects</a> |
-    <a href="#about">About</a> |
+    <img src="https://github.com/znqi/znqi/raw/main/images/wave%20(1).svg" >
+
 </div>
-<br> -->
+
 <div align="center">
     <img src="https://lanyard-profile-readme.vercel.app/api/653200123668725790" alt="Zenqi"></a>
-<!--     <a href="https://github.com/znqi"><img align="center" src="https://raw.githubusercontent.com/znqi/znqi/main/images/Hello.gif" alt="Hello"></a><br> -->
-<!--     <a href="https://github.com/znqi"><img src="https://raw.githubusercontent.com/znqi/znqi/main/images/logo_test.gif" width="400" alt="Hello"></a><br> -->
-<!--     <a href="https://github.com/znqi"><img src="https://raw.githubusercontent.com/znqi/znqi/main/images/alien.gif" width="256" alt="Hello"></a><br> -->
-<!--     <a href=""><img src="https://spotifynowplaying.vercel.app/api/spotify-playing"></a> -->
     <br>
     <div align="center">
         <a href="https://github.com/znqi">Home</a> |
@@ -73,3 +61,4 @@ I'm still a student. I do free services for Discord by creating<br>
 **Bots**, **Websites** and more. Backend is one of my main skills in web development. I'm not good at<br>
 Front end stuff, lmao. 
 <img align="center" src="https://github.com/znqi/znqi/raw/main/images/wave.svg">
+ -->
