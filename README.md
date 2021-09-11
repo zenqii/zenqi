@@ -2,6 +2,7 @@
     <img src="https://github.com/znqi/znqi/raw/main/images/wave%20(1).svg" >
 
 </div>
+-->
 
 <div align="center">
     <img src="https://lanyard-profile-readme.vercel.app/api/653200123668725790" alt="Zenqi"></a>
@@ -17,7 +18,7 @@
     Hey there, I'm <strong>zenqi</strong> (zen) or anything you want to call me.<br>I do programming stuff, Feel free to check my projects or even contribute to it!
 </div>
 <br>
-
+<!--
 <div align="center">
     <h3>Languages and Tools</h3>
     <a href="https://python.org"><img src="https://github.com/znqi/znqi/raw/main/images/python-logo.png" width="32" alt="Python"></a>
